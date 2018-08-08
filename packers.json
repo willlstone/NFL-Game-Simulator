@@ -1,8 +1,21 @@
 {
 	"Team": {"name":"Packers"},
 
-	"Players": [
-		
+	"QB": {"name": "Aaron Rodgers","short": 71,"medium":75,"long": 75,"pa":75,"run":60},
 	
-	]
+	"RB": {"name": "Ty Montgomery", "ovr": 81 },
+	
+	"Receivers": [
+	
+		
+		{"position": "WR1", "name": "Davante Adams", "ovr": 88},
+		
+		{"position": "WR2", "name": "Randall Cobb", "ovr": 83},
+	
+		{"position": "SLOT", "name": "Geronimo Allison", "ovr": 71},
+		
+		{"position": "TE", "name": "Jimmy Graham", "ovr": 86}
+		
+		]
+	
 }

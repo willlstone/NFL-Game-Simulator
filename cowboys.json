@@ -1,0 +1,21 @@
+{
+	"Team": {"name":""},
+
+	"QB": {"name": "Dak Prescott","short": 80,"medium":66,"long": 61,"pa":80,"run":80},
+	
+	"RB": {"name": "Ezekiel Elliot", "ovr": 95 },
+	
+	"Receivers": [
+	
+		
+		{"position": "WR1", "name": "Allen Hurns", "ovr": 81},
+		
+		{"position": "WR2", "name": "Terence Williams", "ovr": 79},
+	
+		{"position": "SLOT", "name": "Cole Beasley", "ovr": 81},
+		
+		{"position": "TE", "name": "Michael Gallup", "ovr": 73}
+		
+		]
+	
+}

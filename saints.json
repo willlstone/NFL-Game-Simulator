@@ -1,0 +1,21 @@
+{
+	"Team": {"name":""},
+
+	"QB": {"name": "Drew Brees","short": 70,"medium":70,"long": 73,"pa":70,"run":30},
+	
+	"RB": {"name": "Alvin Kamara", "ovr": 88 },
+	
+	"Receivers": [
+	
+		
+		{"position": "WR1", "name": "Michael Thomas", "ovr": 91},
+		
+		{"position": "WR2", "name": "Cameron Meredith", "ovr": 83},
+	
+		{"position": "SLOT", "name": "Ted Ginn Jr", "ovr": 82},
+		
+		{"position": "TE", "name": "Josh Hill", "ovr": 81}
+		
+		]
+	
+}

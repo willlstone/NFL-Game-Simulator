@@ -1,0 +1,21 @@
+{
+	"Team": {"name":""},
+
+	"QB": {"name": "Ben Roethlesburger","short": 68,"medium":65,"long": 72,"pa":70,"run":30},
+	
+	"RB": {"name": "Le'Veon Bell", "ovr": 96 },
+	
+	"Receivers": [
+	
+		
+		{"position": "WR1", "name": "Antonio Brown", "ovr": 99},
+		
+		{"position": "WR2", "name": "Juju Smith-Schuster", "ovr": 80},
+	
+		{"position": "SLOT", "name": "James Washington", "ovr": 74},
+		
+		{"position": "TE", "name": "Jesse James", "ovr": 77}
+		
+		]
+	
+}
