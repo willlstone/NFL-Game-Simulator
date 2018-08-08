@@ -1,0 +1,21 @@
+{
+	"Team": {"name":"Patriots"},
+
+	"QB": {"name": "Tom Brady","short": 75,"medium":70,"long": 60,"pa":75,"run":30},
+	
+	"RB": {"name": "Dion Lewis"},
+	
+	"Receivers": [
+	
+		
+		{"position": "WR1", "name": "Julian Edleman", "ovr": 88},
+		
+		{"position": "WR2", "name": "Brandon Cooks", "ovr": 84},
+	
+		{"position": "SLOT", "name": "Chris Hogan", "ovr": 78},
+		
+		{"position": "TE", "name": "Rob Gronkowski", "ovr": 94}
+		
+		]
+	
+}
